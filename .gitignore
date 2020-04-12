@@ -1,0 +1,5 @@
+client/node_modules
+.idea
+backend/venv
+backend/api/__pycache__
+env
